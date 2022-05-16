@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-test-cs\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-test-cs\bin\Debug\ce100-hw4-algo-test-cs.dll
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-test-cs\bin\Debug\ce100-hw4-algo-test-cs.pdb
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-test-cs\obj\Debug\ce100-hw4-algo-test-cs.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-test-cs\obj\Debug\ce100-hw4-algo-test-cs.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-test-cs\obj\Debug\ce100-hw4-algo-test-cs.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-test-cs\obj\Debug\ce100-hw4-algo-test-cs.dll
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-test-cs\obj\Debug\ce100-hw4-algo-test-cs.pdb
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-test-cs\bin\Debug\ce100-hw4-algo-lib-cs.dll
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-test-cs\bin\Debug\ce100-hw4-algo-lib-cs.pdb

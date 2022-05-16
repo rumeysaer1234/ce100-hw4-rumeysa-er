@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-lib-cs\bin\Debug\ce100-hw4-algo-lib-cs.dll
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-lib-cs\bin\Debug\ce100-hw4-algo-lib-cs.pdb
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-lib-cs\obj\Debug\ce100-hw4-algo-lib-cs.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-lib-cs\obj\Debug\ce100-hw4-algo-lib-cs.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-lib-cs\obj\Debug\ce100-hw4-algo-lib-cs.dll
+C:\Users\Lenovo\Desktop\ce100-hw4-rumeysa-er\ce100-hw4-sln\ce100-hw4-algo-lib-cs\obj\Debug\ce100-hw4-algo-lib-cs.pdb
